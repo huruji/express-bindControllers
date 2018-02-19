@@ -1,0 +1,24 @@
+{
+  "name": "express-bindcontrollers",
+  "version": "0.0.1",
+  "description": "An express.js middleware for binding controllers and routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruji/express-bindControllers.git"
+  },
+  "keywords": [
+    "express",
+    "bindControllers",
+    "routes"
+  ],
+  "author": "huruji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huruji/express-bindControllers/issues"
+  },
+  "homepage": "https://github.com/huruji/express-bindControllers#readme"
+}
